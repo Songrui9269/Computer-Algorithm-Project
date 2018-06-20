@@ -1,0 +1,1745 @@
+node_num:10,avg_degree:2,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4e-007
+avg dij time:8e-007
+***************************************
+node_num:10,avg_degree:3,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:6e-007
+avg dij time:4e-007
+***************************************
+node_num:10,avg_degree:4,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:9e-007
+avg dij time:1e-006
+***************************************
+node_num:10,avg_degree:5,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.7e-006
+avg dij time:3e-007
+***************************************
+node_num:10,avg_degree:6,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.9e-006
+avg dij time:8e-007
+***************************************
+node_num:10,avg_degree:7,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.3e-006
+avg dij time:5e-007
+***************************************
+node_num:10,avg_degree:8,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.1e-006
+avg dij time:6e-007
+***************************************
+node_num:10,avg_degree:9,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.9e-006
+avg dij time:1.2e-006
+***************************************
+node_num:20,avg_degree:2,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.6e-006
+avg dij time:2.4e-006
+***************************************
+node_num:20,avg_degree:3,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3e-006
+avg dij time:3.1e-006
+***************************************
+node_num:20,avg_degree:4,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3e-006
+avg dij time:1.8e-006
+***************************************
+node_num:20,avg_degree:5,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4.1e-006
+avg dij time:2.3e-006
+***************************************
+node_num:20,avg_degree:6,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:5.5e-006
+avg dij time:2.8e-006
+***************************************
+node_num:20,avg_degree:7,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4.9e-006
+avg dij time:2.5e-006
+***************************************
+node_num:20,avg_degree:8,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:6.8e-006
+avg dij time:3.5e-006
+***************************************
+node_num:20,avg_degree:9,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:7.9e-006
+avg dij time:1.7e-006
+***************************************
+node_num:20,avg_degree:10,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:9.3e-006
+avg dij time:3e-006
+***************************************
+node_num:20,avg_degree:11,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.04e-005
+avg dij time:2.4e-006
+***************************************
+node_num:20,avg_degree:12,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.08e-005
+avg dij time:2.8e-006
+***************************************
+node_num:20,avg_degree:13,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.12e-005
+avg dij time:2.8e-006
+***************************************
+node_num:20,avg_degree:14,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.17e-005
+avg dij time:2.7e-006
+***************************************
+node_num:20,avg_degree:15,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.5e-005
+avg dij time:2.7e-006
+***************************************
+node_num:20,avg_degree:16,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.4e-005
+avg dij time:2.8e-006
+***************************************
+node_num:20,avg_degree:17,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.46e-005
+avg dij time:2.6e-006
+***************************************
+node_num:20,avg_degree:18,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.53e-005
+avg dij time:2e-006
+***************************************
+node_num:20,avg_degree:19,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.49e-005
+avg dij time:3e-006
+***************************************
+node_num:30,avg_degree:2,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4.2e-006
+avg dij time:6.1e-006
+***************************************
+node_num:30,avg_degree:3,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:6e-006
+avg dij time:6.2e-006
+***************************************
+node_num:30,avg_degree:4,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:8.5e-006
+avg dij time:5.2e-006
+***************************************
+node_num:30,avg_degree:5,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:9.8e-006
+avg dij time:5.7e-006
+***************************************
+node_num:30,avg_degree:6,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.18e-005
+avg dij time:6.9e-006
+***************************************
+node_num:30,avg_degree:7,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.26e-005
+avg dij time:5.7e-006
+***************************************
+node_num:30,avg_degree:8,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.7e-005
+avg dij time:6.5e-006
+***************************************
+node_num:30,avg_degree:9,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.63e-005
+avg dij time:6.6e-006
+***************************************
+node_num:30,avg_degree:10,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.02e-005
+avg dij time:6.1e-006
+***************************************
+node_num:30,avg_degree:11,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.25e-005
+avg dij time:5.5e-006
+***************************************
+node_num:30,avg_degree:12,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.36e-005
+avg dij time:6e-006
+***************************************
+node_num:30,avg_degree:13,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.32e-005
+avg dij time:5.4e-006
+***************************************
+node_num:30,avg_degree:14,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.55e-005
+avg dij time:4.8e-006
+***************************************
+node_num:30,avg_degree:15,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.97e-005
+avg dij time:6.6e-006
+***************************************
+node_num:30,avg_degree:16,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.15e-005
+avg dij time:6.4e-006
+***************************************
+node_num:30,avg_degree:17,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.08e-005
+avg dij time:7.4e-006
+***************************************
+node_num:30,avg_degree:18,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.51e-005
+avg dij time:5.2e-006
+***************************************
+node_num:30,avg_degree:19,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.65e-005
+avg dij time:5.9e-006
+***************************************
+node_num:30,avg_degree:20,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.73e-005
+avg dij time:4.8e-006
+***************************************
+node_num:40,avg_degree:2,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:7.9e-006
+avg dij time:8e-006
+***************************************
+node_num:40,avg_degree:3,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.03e-005
+avg dij time:1.01e-005
+***************************************
+node_num:40,avg_degree:4,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.38e-005
+avg dij time:1.08e-005
+***************************************
+node_num:40,avg_degree:5,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.64e-005
+avg dij time:1.35e-005
+***************************************
+node_num:40,avg_degree:6,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.27e-005
+avg dij time:1.44e-005
+***************************************
+node_num:40,avg_degree:7,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.19e-005
+avg dij time:1.13e-005
+***************************************
+node_num:40,avg_degree:8,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.75e-005
+avg dij time:1.22e-005
+***************************************
+node_num:40,avg_degree:9,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.12e-005
+avg dij time:1.21e-005
+***************************************
+node_num:40,avg_degree:10,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.17e-005
+avg dij time:1.24e-005
+***************************************
+node_num:40,avg_degree:11,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.33e-005
+avg dij time:1.37e-005
+***************************************
+node_num:40,avg_degree:12,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4.07e-005
+avg dij time:1.14e-005
+***************************************
+node_num:40,avg_degree:13,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4.34e-005
+avg dij time:1.26e-005
+***************************************
+node_num:40,avg_degree:14,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4.58e-005
+avg dij time:1.23e-005
+***************************************
+node_num:40,avg_degree:15,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4.91e-005
+avg dij time:1.33e-005
+***************************************
+node_num:40,avg_degree:16,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:5.29e-005
+avg dij time:1.42e-005
+***************************************
+node_num:40,avg_degree:17,isdigraph:true,is_neg:false
+test_times:9722
+avg bel time:5.698415964e-005
+avg dij time:1.409175067e-005
+***************************************
+node_num:40,avg_degree:18,isdigraph:true,is_neg:false
+test_times:9174
+avg bel time:6.267713102e-005
+avg dij time:1.035535208e-005
+***************************************
+node_num:40,avg_degree:19,isdigraph:true,is_neg:false
+test_times:8738
+avg bel time:6.477454795e-005
+avg dij time:1.419089036e-005
+***************************************
+node_num:40,avg_degree:20,isdigraph:true,is_neg:false
+test_times:8482
+avg bel time:6.425371375e-005
+avg dij time:1.556236737e-005
+***************************************
+node_num:50,avg_degree:2,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.17e-005
+avg dij time:1.51e-005
+***************************************
+node_num:50,avg_degree:3,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.55e-005
+avg dij time:1.92e-005
+***************************************
+node_num:50,avg_degree:4,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.22e-005
+avg dij time:2.06e-005
+***************************************
+node_num:50,avg_degree:5,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.69e-005
+avg dij time:2.12e-005
+***************************************
+node_num:50,avg_degree:6,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.1e-005
+avg dij time:2.18e-005
+***************************************
+node_num:50,avg_degree:7,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.7e-005
+avg dij time:2.66e-005
+***************************************
+node_num:50,avg_degree:8,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.89e-005
+avg dij time:2.21e-005
+***************************************
+node_num:50,avg_degree:9,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:4.8e-005
+avg dij time:2.05e-005
+***************************************
+node_num:50,avg_degree:10,isdigraph:true,is_neg:false
+test_times:9454
+avg bel time:4.960863127e-005
+avg dij time:2.253014597e-005
+***************************************
+node_num:50,avg_degree:11,isdigraph:true,is_neg:false
+test_times:8657
+avg bel time:5.382927111e-005
+avg dij time:2.448885295e-005
+***************************************
+node_num:50,avg_degree:12,isdigraph:true,is_neg:false
+test_times:8244
+avg bel time:6.065016982e-005
+avg dij time:2.268316351e-005
+***************************************
+node_num:50,avg_degree:13,isdigraph:true,is_neg:false
+test_times:7681
+avg bel time:6.717875277e-005
+avg dij time:2.356464002e-005
+***************************************
+node_num:50,avg_degree:14,isdigraph:true,is_neg:false
+test_times:7239
+avg bel time:6.934659483e-005
+avg dij time:2.624671916e-005
+***************************************
+node_num:50,avg_degree:15,isdigraph:true,is_neg:false
+test_times:6927
+avg bel time:7.521293489e-005
+avg dij time:2.165439584e-005
+***************************************
+node_num:50,avg_degree:16,isdigraph:true,is_neg:false
+test_times:6635
+avg bel time:8.108515448e-005
+avg dij time:2.411454408e-005
+***************************************
+node_num:50,avg_degree:17,isdigraph:true,is_neg:false
+test_times:6247
+avg bel time:8.788218345e-005
+avg dij time:2.305106451e-005
+***************************************
+node_num:50,avg_degree:18,isdigraph:true,is_neg:false
+test_times:5957
+avg bel time:9.467852946e-005
+avg dij time:2.48447205e-005
+***************************************
+node_num:50,avg_degree:19,isdigraph:true,is_neg:false
+test_times:5812
+avg bel time:0.0001001376462
+avg dij time:2.580867171e-005
+***************************************
+node_num:50,avg_degree:20,isdigraph:true,is_neg:false
+test_times:5585
+avg bel time:9.668755595e-005
+avg dij time:2.829006267e-005
+***************************************
+node_num:60,avg_degree:2,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:1.38e-005
+avg dij time:2.32e-005
+***************************************
+node_num:60,avg_degree:3,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.18e-005
+avg dij time:2.16e-005
+***************************************
+node_num:60,avg_degree:4,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:3.14e-005
+avg dij time:2.84e-005
+***************************************
+node_num:60,avg_degree:5,isdigraph:true,is_neg:false
+test_times:9683
+avg bel time:3.769492926e-005
+avg dij time:3.046576474e-005
+***************************************
+node_num:60,avg_degree:6,isdigraph:true,is_neg:false
+test_times:8819
+avg bel time:4.376913482e-005
+avg dij time:3.345050459e-005
+***************************************
+node_num:60,avg_degree:7,isdigraph:true,is_neg:false
+test_times:7987
+avg bel time:5.3587079e-005
+avg dij time:3.530737448e-005
+***************************************
+node_num:60,avg_degree:8,isdigraph:true,is_neg:false
+test_times:7457
+avg bel time:6.021188145e-005
+avg dij time:3.285503554e-005
+***************************************
+node_num:60,avg_degree:9,isdigraph:true,is_neg:false
+test_times:6943
+avg bel time:6.812617024e-005
+avg dij time:3.571942964e-005
+***************************************
+node_num:60,avg_degree:10,isdigraph:true,is_neg:false
+test_times:6532
+avg bel time:7.424984691e-005
+avg dij time:3.766074709e-005
+***************************************
+node_num:60,avg_degree:11,isdigraph:true,is_neg:false
+test_times:6220
+avg bel time:7.70096463e-005
+avg dij time:3.569131833e-005
+***************************************
+node_num:60,avg_degree:12,isdigraph:true,is_neg:false
+test_times:5919
+avg bel time:8.193951681e-005
+avg dij time:3.598580841e-005
+***************************************
+node_num:60,avg_degree:13,isdigraph:true,is_neg:false
+test_times:5448
+avg bel time:9.765051395e-005
+avg dij time:3.579295154e-005
+***************************************
+node_num:60,avg_degree:14,isdigraph:true,is_neg:false
+test_times:5149
+avg bel time:0.0001075937075
+avg dij time:3.787143135e-005
+***************************************
+node_num:60,avg_degree:15,isdigraph:true,is_neg:false
+test_times:4911
+avg bel time:0.0001095499898
+avg dij time:3.685603747e-005
+***************************************
+node_num:60,avg_degree:16,isdigraph:true,is_neg:false
+test_times:4717
+avg bel time:0.0001212635149
+avg dij time:4.070383718e-005
+***************************************
+node_num:60,avg_degree:17,isdigraph:true,is_neg:false
+test_times:4453
+avg bel time:0.0001226139681
+avg dij time:4.042218729e-005
+***************************************
+node_num:60,avg_degree:18,isdigraph:true,is_neg:false
+test_times:4306
+avg bel time:0.0001309800279
+avg dij time:4.482117975e-005
+***************************************
+node_num:60,avg_degree:19,isdigraph:true,is_neg:false
+test_times:4082
+avg bel time:0.0001366976972
+avg dij time:3.919647232e-005
+***************************************
+node_num:60,avg_degree:20,isdigraph:true,is_neg:false
+test_times:3958
+avg bel time:0.0001414855988
+avg dij time:4.749873674e-005
+***************************************
+node_num:70,avg_degree:2,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.17e-005
+avg dij time:3.17e-005
+***************************************
+node_num:70,avg_degree:3,isdigraph:true,is_neg:false
+test_times:10000
+avg bel time:2.99e-005
+avg dij time:3.08e-005
+***************************************
+node_num:70,avg_degree:4,isdigraph:true,is_neg:false
+test_times:8126
+avg bel time:3.937976864e-005
+avg dij time:4.208712774e-005
+***************************************
+node_num:70,avg_degree:5,isdigraph:true,is_neg:false
+test_times:7263
+avg bel time:4.791408509e-005
+avg dij time:4.529808619e-005
+***************************************
+node_num:70,avg_degree:6,isdigraph:true,is_neg:false
+test_times:6420
+avg bel time:5.794392523e-005
+avg dij time:5.07788162e-005
+***************************************
+node_num:70,avg_degree:7,isdigraph:true,is_neg:false
+test_times:5861
+avg bel time:6.961269408e-005
+avg dij time:4.726155946e-005
+***************************************
+node_num:70,avg_degree:8,isdigraph:true,is_neg:false
+test_times:5580
+avg bel time:8.11827957e-005
+avg dij time:4.874551971e-005
+***************************************
+node_num:70,avg_degree:9,isdigraph:true,is_neg:false
+test_times:4850
+avg bel time:9.360824742e-005
+avg dij time:5.298969072e-005
+***************************************
+node_num:70,avg_degree:10,isdigraph:true,is_neg:false
+test_times:4789
+avg bel time:0.0001041971184
+avg dij time:5.095009397e-005
+***************************************
+node_num:70,avg_degree:11,isdigraph:true,is_neg:false
+test_times:4323
+avg bel time:0.0001170483461
+avg dij time:5.06592644e-005
+***************************************
+node_num:70,avg_degree:12,isdigraph:true,is_neg:false
+test_times:4339
+avg bel time:0.0001152339249
+avg dij time:5.139433049e-005
+***************************************
+node_num:70,avg_degree:13,isdigraph:true,is_neg:false
+test_times:4078
+avg bel time:0.0001292300147
+avg dij time:5.443845022e-005
+***************************************
+node_num:70,avg_degree:14,isdigraph:true,is_neg:false
+test_times:3906
+avg bel time:0.0001400409626
+avg dij time:5.145929339e-005
+***************************************
+node_num:70,avg_degree:15,isdigraph:true,is_neg:false
+test_times:3660
+avg bel time:0.000156010929
+avg dij time:4.972677596e-005
+***************************************
+node_num:70,avg_degree:16,isdigraph:true,is_neg:false
+test_times:3506
+avg bel time:0.0001557330291
+avg dij time:5.533371363e-005
+***************************************
+node_num:70,avg_degree:17,isdigraph:true,is_neg:false
+test_times:3414
+avg bel time:0.0001649091974
+avg dij time:5.0380785e-005
+***************************************
+node_num:70,avg_degree:18,isdigraph:true,is_neg:false
+test_times:3181
+avg bel time:0.0001832756995
+avg dij time:5.658597925e-005
+***************************************
+node_num:70,avg_degree:19,isdigraph:true,is_neg:false
+test_times:3043
+avg bel time:0.0001922444956
+avg dij time:5.323693723e-005
+***************************************
+node_num:70,avg_degree:20,isdigraph:true,is_neg:false
+test_times:3002
+avg bel time:0.0001928714191
+avg dij time:5.62958028e-005
+***************************************
+node_num:80,avg_degree:2,isdigraph:true,is_neg:false
+test_times:8958
+avg bel time:2.690332664e-005
+avg dij time:4.219691896e-005
+***************************************
+node_num:80,avg_degree:3,isdigraph:true,is_neg:false
+test_times:7665
+avg bel time:4.200913242e-005
+avg dij time:3.979125897e-005
+***************************************
+node_num:80,avg_degree:4,isdigraph:true,is_neg:false
+test_times:6374
+avg bel time:5.098839034e-005
+avg dij time:5.31848133e-005
+***************************************
+node_num:80,avg_degree:5,isdigraph:true,is_neg:false
+test_times:5265
+avg bel time:6.704653371e-005
+avg dij time:7.198480532e-005
+***************************************
+node_num:80,avg_degree:6,isdigraph:true,is_neg:false
+test_times:4600
+avg bel time:8.47826087e-005
+avg dij time:6.782608696e-005
+***************************************
+node_num:80,avg_degree:7,isdigraph:true,is_neg:false
+test_times:4335
+avg bel time:9.296424452e-005
+avg dij time:6.75893887e-005
+***************************************
+node_num:80,avg_degree:8,isdigraph:true,is_neg:false
+test_times:4096
+avg bel time:0.0001057128906
+avg dij time:7.397460938e-005
+***************************************
+node_num:80,avg_degree:9,isdigraph:true,is_neg:false
+test_times:3889
+avg bel time:0.0001247107226
+avg dij time:6.685523271e-005
+***************************************
+node_num:80,avg_degree:10,isdigraph:true,is_neg:false
+test_times:3757
+avg bel time:0.0001346819271
+avg dij time:6.175139739e-005
+***************************************
+node_num:80,avg_degree:11,isdigraph:true,is_neg:false
+test_times:3462
+avg bel time:0.0001565569035
+avg dij time:6.643558637e-005
+***************************************
+node_num:80,avg_degree:12,isdigraph:true,is_neg:false
+test_times:3345
+avg bel time:0.0001545590433
+avg dij time:6.905829596e-005
+***************************************
+node_num:80,avg_degree:13,isdigraph:true,is_neg:false
+test_times:3101
+avg bel time:0.0001722025153
+avg dij time:7.126733312e-005
+***************************************
+node_num:80,avg_degree:14,isdigraph:true,is_neg:false
+test_times:2976
+avg bel time:0.0001787634409
+avg dij time:7.459677419e-005
+***************************************
+node_num:80,avg_degree:15,isdigraph:true,is_neg:false
+test_times:2817
+avg bel time:0.0002055378062
+avg dij time:7.525736599e-005
+***************************************
+node_num:80,avg_degree:16,isdigraph:true,is_neg:false
+test_times:2704
+avg bel time:0.0002037721893
+avg dij time:7.470414201e-005
+***************************************
+node_num:80,avg_degree:17,isdigraph:true,is_neg:false
+test_times:2598
+avg bel time:0.0002167051578
+avg dij time:7.775211701e-005
+***************************************
+node_num:80,avg_degree:18,isdigraph:true,is_neg:false
+test_times:2482
+avg bel time:0.0002348912168
+avg dij time:7.252215955e-005
+***************************************
+node_num:80,avg_degree:19,isdigraph:true,is_neg:false
+test_times:2372
+avg bel time:0.0002487352445
+avg dij time:7.588532884e-005
+***************************************
+node_num:80,avg_degree:20,isdigraph:true,is_neg:false
+test_times:2274
+avg bel time:0.0002594547054
+avg dij time:7.739665787e-005
+***************************************
+node_num:90,avg_degree:2,isdigraph:true,is_neg:false
+test_times:6936
+avg bel time:3.402537486e-005
+avg dij time:5.637254902e-005
+***************************************
+node_num:90,avg_degree:3,isdigraph:true,is_neg:false
+test_times:5878
+avg bel time:4.933650902e-005
+avg dij time:5.852330725e-005
+***************************************
+node_num:90,avg_degree:4,isdigraph:true,is_neg:false
+test_times:5191
+avg bel time:6.183779619e-005
+avg dij time:6.800231169e-005
+***************************************
+node_num:90,avg_degree:5,isdigraph:true,is_neg:false
+test_times:4343
+avg bel time:8.289201013e-005
+avg dij time:8.33525213e-005
+***************************************
+node_num:90,avg_degree:6,isdigraph:true,is_neg:false
+test_times:4060
+avg bel time:9.876847291e-005
+avg dij time:8.399014778e-005
+***************************************
+node_num:90,avg_degree:7,isdigraph:true,is_neg:false
+test_times:3694
+avg bel time:0.0001120736329
+avg dij time:8.04006497e-005
+***************************************
+node_num:90,avg_degree:8,isdigraph:true,is_neg:false
+test_times:3399
+avg bel time:0.0001400411886
+avg dij time:8.061194469e-005
+***************************************
+node_num:90,avg_degree:9,isdigraph:true,is_neg:false
+test_times:3180
+avg bel time:0.0001446540881
+avg dij time:9.339622642e-005
+***************************************
+node_num:90,avg_degree:10,isdigraph:true,is_neg:false
+test_times:3015
+avg bel time:0.0001688225539
+avg dij time:8.623548922e-005
+***************************************
+node_num:90,avg_degree:11,isdigraph:true,is_neg:false
+test_times:2757
+avg bel time:0.0001704751542
+avg dij time:9.938338774e-005
+***************************************
+node_num:90,avg_degree:12,isdigraph:true,is_neg:false
+test_times:2634
+avg bel time:0.0002053910402
+avg dij time:8.807896735e-005
+***************************************
+node_num:90,avg_degree:13,isdigraph:true,is_neg:false
+test_times:2488
+avg bel time:0.0002142282958
+avg dij time:9.606109325e-005
+***************************************
+node_num:90,avg_degree:14,isdigraph:true,is_neg:false
+test_times:2326
+avg bel time:0.0002269991402
+avg dij time:0.0001006018917
+***************************************
+node_num:90,avg_degree:15,isdigraph:true,is_neg:false
+test_times:2252
+avg bel time:0.0002455595027
+avg dij time:9.147424512e-005
+***************************************
+node_num:90,avg_degree:16,isdigraph:true,is_neg:false
+test_times:2081
+avg bel time:0.0002691013936
+avg dij time:9.562710235e-005
+***************************************
+node_num:90,avg_degree:17,isdigraph:true,is_neg:false
+test_times:2003
+avg bel time:0.0002890664004
+avg dij time:9.385921118e-005
+***************************************
+node_num:90,avg_degree:18,isdigraph:true,is_neg:false
+test_times:1847
+avg bel time:0.0003275582025
+avg dij time:9.149972929e-005
+***************************************
+node_num:90,avg_degree:19,isdigraph:true,is_neg:false
+test_times:1858
+avg bel time:0.000333153929
+avg dij time:9.364908504e-005
+***************************************
+node_num:90,avg_degree:20,isdigraph:true,is_neg:false
+test_times:1799
+avg bel time:0.0003279599778
+avg dij time:9.89438577e-005
+***************************************
+node_num:100,avg_degree:2,isdigraph:true,is_neg:false
+test_times:5561
+avg bel time:4.531559072e-005
+avg dij time:6.815320985e-005
+***************************************
+node_num:100,avg_degree:3,isdigraph:true,is_neg:false
+test_times:4680
+avg bel time:5.790598291e-005
+avg dij time:7.97008547e-005
+***************************************
+node_num:100,avg_degree:4,isdigraph:true,is_neg:false
+test_times:3782
+avg bel time:8.249603384e-005
+avg dij time:0.0001017979905
+***************************************
+node_num:100,avg_degree:5,isdigraph:true,is_neg:false
+test_times:3652
+avg bel time:0.0001056955093
+avg dij time:8.105147864e-005
+***************************************
+node_num:100,avg_degree:6,isdigraph:true,is_neg:false
+test_times:3336
+avg bel time:0.000123501199
+avg dij time:8.483213429e-005
+***************************************
+node_num:100,avg_degree:7,isdigraph:true,is_neg:false
+test_times:2797
+avg bel time:0.0001419377905
+avg dij time:0.0001140507687
+***************************************
+node_num:100,avg_degree:8,isdigraph:true,is_neg:false
+test_times:2552
+avg bel time:0.0001763322884
+avg dij time:0.0001179467085
+***************************************
+node_num:100,avg_degree:9,isdigraph:true,is_neg:false
+test_times:2471
+avg bel time:0.0001946580332
+avg dij time:0.0001080534197
+***************************************
+node_num:100,avg_degree:10,isdigraph:true,is_neg:false
+test_times:2359
+avg bel time:0.0002115303095
+avg dij time:0.0001131835524
+***************************************
+node_num:100,avg_degree:11,isdigraph:true,is_neg:false
+test_times:2213
+avg bel time:0.000230456394
+avg dij time:0.0001066425667
+***************************************
+node_num:100,avg_degree:12,isdigraph:true,is_neg:false
+test_times:2099
+avg bel time:0.0002486898523
+avg dij time:0.0001191043354
+***************************************
+node_num:100,avg_degree:13,isdigraph:true,is_neg:false
+test_times:1983
+avg bel time:0.0002798789713
+avg dij time:0.0001129601614
+***************************************
+node_num:100,avg_degree:14,isdigraph:true,is_neg:false
+test_times:1864
+avg bel time:0.0002854077253
+avg dij time:0.0001239270386
+***************************************
+node_num:100,avg_degree:15,isdigraph:true,is_neg:false
+test_times:1806
+avg bel time:0.0003200442968
+avg dij time:0.0001151716501
+***************************************
+node_num:100,avg_degree:16,isdigraph:true,is_neg:false
+test_times:1715
+avg bel time:0.0003411078717
+avg dij time:0.0001148688047
+***************************************
+node_num:100,avg_degree:17,isdigraph:true,is_neg:false
+test_times:1654
+avg bel time:0.0003518742443
+avg dij time:0.0001239419589
+***************************************
+node_num:100,avg_degree:18,isdigraph:true,is_neg:false
+test_times:1505
+avg bel time:0.0003926910299
+avg dij time:0.0001295681063
+***************************************
+node_num:100,avg_degree:19,isdigraph:true,is_neg:false
+test_times:1474
+avg bel time:0.0004097693351
+avg dij time:0.0001139755767
+***************************************
+node_num:100,avg_degree:20,isdigraph:true,is_neg:false
+test_times:1477
+avg bel time:0.0004211238998
+avg dij time:0.0001096817874
+***************************************
+node_num:200,avg_degree:2,isdigraph:true,is_neg:false
+test_times:1374
+avg bel time:0.0001754002911
+avg dij time:0.0002743813683
+***************************************
+node_num:200,avg_degree:3,isdigraph:true,is_neg:false
+test_times:1067
+avg bel time:0.00026710403
+avg dij time:0.0003795688847
+***************************************
+node_num:200,avg_degree:4,isdigraph:true,is_neg:false
+test_times:966
+avg bel time:0.0003374741201
+avg dij time:0.0003881987578
+***************************************
+node_num:200,avg_degree:5,isdigraph:true,is_neg:false
+test_times:873
+avg bel time:0.0004478808706
+avg dij time:0.0003986254296
+***************************************
+node_num:200,avg_degree:6,isdigraph:true,is_neg:false
+test_times:805
+avg bel time:0.0004894409938
+avg dij time:0.0004273291925
+***************************************
+node_num:200,avg_degree:7,isdigraph:true,is_neg:false
+test_times:738
+avg bel time:0.0005975609756
+avg dij time:0.0004525745257
+***************************************
+node_num:200,avg_degree:8,isdigraph:true,is_neg:false
+test_times:713
+avg bel time:0.0006437587658
+avg dij time:0.0004446002805
+***************************************
+node_num:200,avg_degree:9,isdigraph:true,is_neg:false
+test_times:632
+avg bel time:0.0007231012658
+avg dij time:0.0005047468354
+***************************************
+node_num:200,avg_degree:10,isdigraph:true,is_neg:false
+test_times:585
+avg bel time:0.000852991453
+avg dij time:0.0004923076923
+***************************************
+node_num:200,avg_degree:11,isdigraph:true,is_neg:false
+test_times:554
+avg bel time:0.0009277978339
+avg dij time:0.0004873646209
+***************************************
+node_num:200,avg_degree:12,isdigraph:true,is_neg:false
+test_times:517
+avg bel time:0.00101934236
+avg dij time:0.0005415860735
+***************************************
+node_num:200,avg_degree:13,isdigraph:true,is_neg:false
+test_times:494
+avg bel time:0.001105263158
+avg dij time:0.000504048583
+***************************************
+node_num:200,avg_degree:14,isdigraph:true,is_neg:false
+test_times:476
+avg bel time:0.001197478992
+avg dij time:0.000481092437
+***************************************
+node_num:200,avg_degree:15,isdigraph:true,is_neg:false
+test_times:444
+avg bel time:0.001335585586
+avg dij time:0.0005247747748
+***************************************
+node_num:200,avg_degree:16,isdigraph:true,is_neg:false
+test_times:429
+avg bel time:0.001412587413
+avg dij time:0.0005034965035
+***************************************
+node_num:200,avg_degree:17,isdigraph:true,is_neg:false
+test_times:399
+avg bel time:0.001516290727
+avg dij time:0.0005488721805
+***************************************
+node_num:200,avg_degree:18,isdigraph:true,is_neg:false
+test_times:393
+avg bel time:0.001577608142
+avg dij time:0.000524173028
+***************************************
+node_num:200,avg_degree:19,isdigraph:true,is_neg:false
+test_times:386
+avg bel time:0.001650259067
+avg dij time:0.0004792746114
+***************************************
+node_num:200,avg_degree:20,isdigraph:true,is_neg:false
+test_times:377
+avg bel time:0.001710875332
+avg dij time:0.0004933687003
+***************************************
+node_num:300,avg_degree:2,isdigraph:true,is_neg:false
+test_times:625
+avg bel time:0.0003424
+avg dij time:0.0006064
+***************************************
+node_num:300,avg_degree:3,isdigraph:true,is_neg:false
+test_times:506
+avg bel time:0.0005256916996
+avg dij time:0.0007549407115
+***************************************
+node_num:300,avg_degree:4,isdigraph:true,is_neg:false
+test_times:453
+avg bel time:0.0007593818985
+avg dij time:0.000761589404
+***************************************
+node_num:300,avg_degree:5,isdigraph:true,is_neg:false
+test_times:386
+avg bel time:0.0009404145078
+avg dij time:0.001044041451
+***************************************
+node_num:300,avg_degree:6,isdigraph:true,is_neg:false
+test_times:352
+avg bel time:0.001122159091
+avg dij time:0.001022727273
+***************************************
+node_num:300,avg_degree:7,isdigraph:true,is_neg:false
+test_times:334
+avg bel time:0.001263473054
+avg dij time:0.001056886228
+***************************************
+node_num:300,avg_degree:8,isdigraph:true,is_neg:false
+test_times:297
+avg bel time:0.001538720539
+avg dij time:0.001097643098
+***************************************
+node_num:300,avg_degree:9,isdigraph:true,is_neg:false
+test_times:283
+avg bel time:0.001692579505
+avg dij time:0.001109540636
+***************************************
+node_num:300,avg_degree:10,isdigraph:true,is_neg:false
+test_times:258
+avg bel time:0.001891472868
+avg dij time:0.00119379845
+***************************************
+node_num:300,avg_degree:11,isdigraph:true,is_neg:false
+test_times:248
+avg bel time:0.002080645161
+avg dij time:0.001169354839
+***************************************
+node_num:300,avg_degree:12,isdigraph:true,is_neg:false
+test_times:238
+avg bel time:0.002243697479
+avg dij time:0.001163865546
+***************************************
+node_num:300,avg_degree:13,isdigraph:true,is_neg:false
+test_times:228
+avg bel time:0.002434210526
+avg dij time:0.001118421053
+***************************************
+node_num:300,avg_degree:14,isdigraph:true,is_neg:false
+test_times:210
+avg bel time:0.002661904762
+avg dij time:0.001161904762
+***************************************
+node_num:300,avg_degree:15,isdigraph:true,is_neg:false
+test_times:198
+avg bel time:0.002944444444
+avg dij time:0.001186868687
+***************************************
+node_num:300,avg_degree:16,isdigraph:true,is_neg:false
+test_times:192
+avg bel time:0.003119791667
+avg dij time:0.001171875
+***************************************
+node_num:300,avg_degree:17,isdigraph:true,is_neg:false
+test_times:180
+avg bel time:0.003338888889
+avg dij time:0.001305555556
+***************************************
+node_num:300,avg_degree:18,isdigraph:true,is_neg:false
+test_times:183
+avg bel time:0.003420765027
+avg dij time:0.001158469945
+***************************************
+node_num:300,avg_degree:19,isdigraph:true,is_neg:false
+test_times:176
+avg bel time:0.003636363636
+avg dij time:0.001136363636
+***************************************
+node_num:300,avg_degree:20,isdigraph:true,is_neg:false
+test_times:165
+avg bel time:0.003884848485
+avg dij time:0.001181818182
+***************************************
+node_num:400,avg_degree:2,isdigraph:true,is_neg:false
+test_times:649
+avg bel time:0.0006825885978
+avg dij time:0.001083204931
+***************************************
+node_num:400,avg_degree:3,isdigraph:true,is_neg:false
+test_times:492
+avg bel time:0.001024390244
+avg dij time:0.001556910569
+***************************************
+node_num:400,avg_degree:4,isdigraph:true,is_neg:false
+test_times:429
+avg bel time:0.001356643357
+avg dij time:0.001979020979
+***************************************
+node_num:400,avg_degree:5,isdigraph:true,is_neg:false
+test_times:415
+avg bel time:0.001643373494
+avg dij time:0.00194939759
+***************************************
+node_num:400,avg_degree:6,isdigraph:true,is_neg:false
+test_times:365
+avg bel time:0.002043835616
+avg dij time:0.002115068493
+***************************************
+node_num:400,avg_degree:7,isdigraph:true,is_neg:false
+test_times:342
+avg bel time:0.002397660819
+avg dij time:0.002114035088
+***************************************
+node_num:400,avg_degree:8,isdigraph:true,is_neg:false
+test_times:307
+avg bel time:0.002820846906
+avg dij time:0.002198697068
+***************************************
+node_num:400,avg_degree:9,isdigraph:true,is_neg:false
+test_times:297
+avg bel time:0.003131313131
+avg dij time:0.002148148148
+***************************************
+node_num:400,avg_degree:10,isdigraph:true,is_neg:false
+test_times:274
+avg bel time:0.00351459854
+avg dij time:0.002288321168
+***************************************
+node_num:400,avg_degree:11,isdigraph:true,is_neg:false
+test_times:252
+avg bel time:0.003996031746
+avg dij time:0.002349206349
+***************************************
+node_num:400,avg_degree:12,isdigraph:true,is_neg:false
+test_times:247
+avg bel time:0.004299595142
+avg dij time:0.002275303644
+***************************************
+node_num:400,avg_degree:13,isdigraph:true,is_neg:false
+test_times:205
+avg bel time:0.005404878049
+avg dij time:0.002517073171
+***************************************
+node_num:400,avg_degree:14,isdigraph:true,is_neg:false
+test_times:231
+avg bel time:0.004978354978
+avg dij time:0.002155844156
+***************************************
+node_num:400,avg_degree:15,isdigraph:true,is_neg:false
+test_times:222
+avg bel time:0.005279279279
+avg dij time:0.002126126126
+***************************************
+node_num:400,avg_degree:16,isdigraph:true,is_neg:false
+test_times:215
+avg bel time:0.005544186047
+avg dij time:0.00216744186
+***************************************
+node_num:400,avg_degree:17,isdigraph:true,is_neg:false
+test_times:196
+avg bel time:0.005933673469
+avg dij time:0.002331632653
+***************************************
+node_num:400,avg_degree:18,isdigraph:true,is_neg:false
+test_times:201
+avg bel time:0.006194029851
+avg dij time:0.002084577114
+***************************************
+node_num:400,avg_degree:19,isdigraph:true,is_neg:false
+test_times:192
+avg bel time:0.00646875
+avg dij time:0.002161458333
+***************************************
+node_num:400,avg_degree:20,isdigraph:true,is_neg:false
+test_times:177
+avg bel time:0.007062146893
+avg dij time:0.002288135593
+***************************************
+node_num:500,avg_degree:2,isdigraph:true,is_neg:false
+test_times:380
+avg bel time:0.001128947368
+avg dij time:0.001723684211
+***************************************
+node_num:500,avg_degree:3,isdigraph:true,is_neg:false
+test_times:258
+avg bel time:0.001678294574
+avg dij time:0.003620155039
+***************************************
+node_num:500,avg_degree:4,isdigraph:true,is_neg:false
+test_times:256
+avg bel time:0.00222265625
+avg dij time:0.00333203125
+***************************************
+node_num:500,avg_degree:5,isdigraph:true,is_neg:false
+test_times:238
+avg bel time:0.002777310924
+avg dij time:0.003424369748
+***************************************
+node_num:500,avg_degree:6,isdigraph:true,is_neg:false
+test_times:218
+avg bel time:0.003435779817
+avg dij time:0.003472477064
+***************************************
+node_num:500,avg_degree:7,isdigraph:true,is_neg:false
+test_times:204
+avg bel time:0.00387254902
+avg dij time:0.003504901961
+***************************************
+node_num:500,avg_degree:8,isdigraph:true,is_neg:false
+test_times:198
+avg bel time:0.004333333333
+avg dij time:0.003358585859
+***************************************
+node_num:500,avg_degree:9,isdigraph:true,is_neg:false
+test_times:206
+avg bel time:0.004839805825
+avg dij time:0.002796116505
+***************************************
+node_num:500,avg_degree:10,isdigraph:true,is_neg:false
+test_times:181
+avg bel time:0.005298342541
+avg dij time:0.003375690608
+***************************************
+node_num:500,avg_degree:11,isdigraph:true,is_neg:false
+test_times:161
+avg bel time:0.006211180124
+avg dij time:0.003633540373
+***************************************
+node_num:500,avg_degree:12,isdigraph:true,is_neg:false
+test_times:159
+avg bel time:0.006666666667
+avg dij time:0.003528301887
+***************************************
+node_num:500,avg_degree:13,isdigraph:true,is_neg:false
+test_times:154
+avg bel time:0.007006493506
+avg dij time:0.003590909091
+***************************************
+node_num:500,avg_degree:14,isdigraph:true,is_neg:false
+test_times:134
+avg bel time:0.008149253731
+avg dij time:0.003858208955
+***************************************
+node_num:500,avg_degree:15,isdigraph:true,is_neg:false
+test_times:134
+avg bel time:0.008395522388
+avg dij time:0.003694029851
+***************************************
+node_num:500,avg_degree:16,isdigraph:true,is_neg:false
+test_times:125
+avg bel time:0.009136
+avg dij time:0.003864
+***************************************
+node_num:500,avg_degree:17,isdigraph:true,is_neg:false
+test_times:124
+avg bel time:0.009443548387
+avg dij time:0.003709677419
+***************************************
+node_num:500,avg_degree:18,isdigraph:true,is_neg:false
+test_times:130
+avg bel time:0.009761538462
+avg dij time:0.003323076923
+***************************************
+node_num:500,avg_degree:19,isdigraph:true,is_neg:false
+test_times:129
+avg bel time:0.01001550388
+avg dij time:0.003255813953
+***************************************
+node_num:500,avg_degree:20,isdigraph:true,is_neg:false
+test_times:127
+avg bel time:0.01026771654
+avg dij time:0.003173228346
+***************************************
+node_num:600,avg_degree:2,isdigraph:true,is_neg:false
+test_times:314
+avg bel time:0.001461783439
+avg dij time:0.002302547771
+***************************************
+node_num:600,avg_degree:3,isdigraph:true,is_neg:false
+test_times:251
+avg bel time:0.002183266932
+avg dij time:0.003107569721
+***************************************
+node_num:600,avg_degree:4,isdigraph:true,is_neg:false
+test_times:201
+avg bel time:0.002895522388
+avg dij time:0.004388059701
+***************************************
+node_num:600,avg_degree:5,isdigraph:true,is_neg:false
+test_times:180
+avg bel time:0.00375
+avg dij time:0.004583333333
+***************************************
+node_num:600,avg_degree:6,isdigraph:true,is_neg:false
+test_times:177
+avg bel time:0.004372881356
+avg dij time:0.004389830508
+***************************************
+node_num:600,avg_degree:7,isdigraph:true,is_neg:false
+test_times:160
+avg bel time:0.005275
+avg dij time:0.00446875
+***************************************
+node_num:600,avg_degree:8,isdigraph:true,is_neg:false
+test_times:151
+avg bel time:0.005880794702
+avg dij time:0.004635761589
+***************************************
+node_num:600,avg_degree:9,isdigraph:true,is_neg:false
+test_times:142
+avg bel time:0.006591549296
+avg dij time:0.004704225352
+***************************************
+node_num:600,avg_degree:10,isdigraph:true,is_neg:false
+test_times:125
+avg bel time:0.007784
+avg dij time:0.004848
+***************************************
+node_num:600,avg_degree:11,isdigraph:true,is_neg:false
+test_times:116
+avg bel time:0.008793103448
+avg dij time:0.00525
+***************************************
+node_num:600,avg_degree:12,isdigraph:true,is_neg:false
+test_times:115
+avg bel time:0.009460869565
+avg dij time:0.004982608696
+***************************************
+node_num:600,avg_degree:13,isdigraph:true,is_neg:false
+test_times:103
+avg bel time:0.01089320388
+avg dij time:0.005145631068
+***************************************
+node_num:600,avg_degree:14,isdigraph:true,is_neg:false
+test_times:101
+avg bel time:0.01116831683
+avg dij time:0.005118811881
+***************************************
+node_num:600,avg_degree:15,isdigraph:true,is_neg:false
+test_times:96
+avg bel time:0.0124375
+avg dij time:0.005010416667
+***************************************
+node_num:600,avg_degree:16,isdigraph:true,is_neg:false
+test_times:93
+avg bel time:0.01272043011
+avg dij time:0.005129032258
+***************************************
+node_num:600,avg_degree:17,isdigraph:true,is_neg:false
+test_times:90
+avg bel time:0.01355555556
+avg dij time:0.005022222222
+***************************************
+node_num:600,avg_degree:18,isdigraph:true,is_neg:false
+test_times:87
+avg bel time:0.0143908046
+avg dij time:0.005011494253
+***************************************
+node_num:600,avg_degree:19,isdigraph:true,is_neg:false
+test_times:84
+avg bel time:0.01511904762
+avg dij time:0.004785714286
+***************************************
+node_num:600,avg_degree:20,isdigraph:true,is_neg:false
+test_times:84
+avg bel time:0.01553571429
+avg dij time:0.004845238095
+***************************************
+node_num:700,avg_degree:2,isdigraph:true,is_neg:false
+test_times:233
+avg bel time:0.001995708155
+avg dij time:0.003107296137
+***************************************
+node_num:700,avg_degree:3,isdigraph:true,is_neg:false
+test_times:177
+avg bel time:0.003011299435
+avg dij time:0.004694915254
+***************************************
+node_num:700,avg_degree:4,isdigraph:true,is_neg:false
+test_times:149
+avg bel time:0.003959731544
+avg dij time:0.005859060403
+***************************************
+node_num:700,avg_degree:5,isdigraph:true,is_neg:false
+test_times:137
+avg bel time:0.004941605839
+avg dij time:0.00602189781
+***************************************
+node_num:700,avg_degree:6,isdigraph:true,is_neg:false
+test_times:135
+avg bel time:0.006348148148
+avg dij time:0.00462962963
+***************************************
+node_num:700,avg_degree:7,isdigraph:true,is_neg:false
+test_times:120
+avg bel time:0.006966666667
+avg dij time:0.00615
+***************************************
+node_num:700,avg_degree:8,isdigraph:true,is_neg:false
+test_times:110
+avg bel time:0.008136363636
+avg dij time:0.006418181818
+***************************************
+node_num:700,avg_degree:9,isdigraph:true,is_neg:false
+test_times:103
+avg bel time:0.009165048544
+avg dij time:0.006291262136
+***************************************
+node_num:700,avg_degree:10,isdigraph:true,is_neg:false
+test_times:98
+avg bel time:0.009959183673
+avg dij time:0.006489795918
+***************************************
+node_num:700,avg_degree:11,isdigraph:true,is_neg:false
+test_times:87
+avg bel time:0.01183908046
+avg dij time:0.006643678161
+***************************************
+node_num:700,avg_degree:12,isdigraph:true,is_neg:false
+test_times:89
+avg bel time:0.01217977528
+avg dij time:0.006528089888
+***************************************
+node_num:700,avg_degree:13,isdigraph:true,is_neg:false
+test_times:83
+avg bel time:0.01374698795
+avg dij time:0.006445783133
+***************************************
+node_num:700,avg_degree:14,isdigraph:true,is_neg:false
+test_times:82
+avg bel time:0.01409756098
+avg dij time:0.006329268293
+***************************************
+node_num:700,avg_degree:15,isdigraph:true,is_neg:false
+test_times:78
+avg bel time:0.01521794872
+avg dij time:0.006179487179
+***************************************
+node_num:700,avg_degree:16,isdigraph:true,is_neg:false
+test_times:70
+avg bel time:0.01771428571
+avg dij time:0.006657142857
+***************************************
+node_num:700,avg_degree:17,isdigraph:true,is_neg:false
+test_times:62
+avg bel time:0.01943548387
+avg dij time:0.007548387097
+***************************************
+node_num:700,avg_degree:18,isdigraph:true,is_neg:false
+test_times:63
+avg bel time:0.01936507937
+avg dij time:0.006920634921
+***************************************
+node_num:700,avg_degree:19,isdigraph:true,is_neg:false
+test_times:61
+avg bel time:0.02060655738
+avg dij time:0.007147540984
+***************************************
+node_num:700,avg_degree:20,isdigraph:true,is_neg:false
+test_times:61
+avg bel time:0.02090163934
+avg dij time:0.007180327869
+***************************************
+node_num:800,avg_degree:2,isdigraph:true,is_neg:false
+test_times:163
+avg bel time:0.002791411043
+avg dij time:0.004349693252
+***************************************
+node_num:800,avg_degree:3,isdigraph:true,is_neg:false
+test_times:105
+avg bel time:0.004123809524
+avg dij time:0.009657142857
+***************************************
+node_num:800,avg_degree:4,isdigraph:true,is_neg:false
+test_times:115
+avg bel time:0.005486956522
+avg dij time:0.006391304348
+***************************************
+node_num:800,avg_degree:5,isdigraph:true,is_neg:false
+test_times:94
+avg bel time:0.007
+avg dij time:0.009010638298
+***************************************
+node_num:800,avg_degree:6,isdigraph:true,is_neg:false
+test_times:89
+avg bel time:0.008370786517
+avg dij time:0.00897752809
+***************************************
+node_num:800,avg_degree:7,isdigraph:true,is_neg:false
+test_times:83
+avg bel time:0.009626506024
+avg dij time:0.008987951807
+***************************************
+node_num:800,avg_degree:8,isdigraph:true,is_neg:false
+test_times:78
+avg bel time:0.01074358974
+avg dij time:0.009051282051
+***************************************
+node_num:800,avg_degree:9,isdigraph:true,is_neg:false
+test_times:73
+avg bel time:0.0125890411
+avg dij time:0.00901369863
+***************************************
+node_num:800,avg_degree:10,isdigraph:true,is_neg:false
+test_times:71
+avg bel time:0.0138028169
+avg dij time:0.009028169014
+***************************************
+node_num:800,avg_degree:11,isdigraph:true,is_neg:false
+test_times:70
+avg bel time:0.01477142857
+avg dij time:0.008685714286
+***************************************
+node_num:800,avg_degree:12,isdigraph:true,is_neg:false
+test_times:68
+avg bel time:0.01589705882
+avg dij time:0.008411764706
+***************************************
+node_num:800,avg_degree:13,isdigraph:true,is_neg:false
+test_times:63
+avg bel time:0.0170952381
+avg dij time:0.008904761905
+***************************************
+node_num:800,avg_degree:14,isdigraph:true,is_neg:false
+test_times:60
+avg bel time:0.01865
+avg dij time:0.008866666667
+***************************************
+node_num:800,avg_degree:15,isdigraph:true,is_neg:false
+test_times:61
+avg bel time:0.01960655738
+avg dij time:0.008426229508
+***************************************
+node_num:800,avg_degree:16,isdigraph:true,is_neg:false
+test_times:59
+avg bel time:0.02054237288
+avg dij time:0.008237288136
+***************************************
+node_num:800,avg_degree:17,isdigraph:true,is_neg:false
+test_times:51
+avg bel time:0.02429411765
+avg dij time:0.009196078431
+***************************************
+node_num:800,avg_degree:18,isdigraph:true,is_neg:false
+test_times:51
+avg bel time:0.02466666667
+avg dij time:0.008823529412
+***************************************
+node_num:800,avg_degree:19,isdigraph:true,is_neg:false
+test_times:52
+avg bel time:0.02511538462
+avg dij time:0.008153846154
+***************************************
+node_num:800,avg_degree:20,isdigraph:true,is_neg:false
+test_times:50
+avg bel time:0.02612
+avg dij time:0.00828
+***************************************
+node_num:900,avg_degree:2,isdigraph:true,is_neg:false
+test_times:145
+avg bel time:0.00315862069
+avg dij time:0.005103448276
+***************************************
+node_num:900,avg_degree:3,isdigraph:true,is_neg:false
+test_times:114
+avg bel time:0.004798245614
+avg dij time:0.006903508772
+***************************************
+node_num:900,avg_degree:4,isdigraph:true,is_neg:false
+test_times:90
+avg bel time:0.006544444444
+avg dij time:0.0101
+***************************************
+node_num:900,avg_degree:5,isdigraph:true,is_neg:false
+test_times:95
+avg bel time:0.008115789474
+avg dij time:0.007368421053
+***************************************
+node_num:900,avg_degree:6,isdigraph:true,is_neg:false
+test_times:80
+avg bel time:0.0095875
+avg dij time:0.0099
+***************************************
+node_num:900,avg_degree:7,isdigraph:true,is_neg:false
+test_times:71
+avg bel time:0.01197183099
+avg dij time:0.01046478873
+***************************************
+node_num:900,avg_degree:8,isdigraph:true,is_neg:false
+test_times:69
+avg bel time:0.01308695652
+avg dij time:0.01007246377
+***************************************
+node_num:900,avg_degree:9,isdigraph:true,is_neg:false
+test_times:66
+avg bel time:0.01439393939
+avg dij time:0.01003030303
+***************************************
+node_num:900,avg_degree:10,isdigraph:true,is_neg:false
+test_times:61
+avg bel time:0.01639344262
+avg dij time:0.01042622951
+***************************************
+node_num:900,avg_degree:11,isdigraph:true,is_neg:false
+test_times:60
+avg bel time:0.01763333333
+avg dij time:0.01015
+***************************************
+node_num:900,avg_degree:12,isdigraph:true,is_neg:false
+test_times:57
+avg bel time:0.01950877193
+avg dij time:0.009947368421
+***************************************
+node_num:900,avg_degree:13,isdigraph:true,is_neg:false
+test_times:51
+avg bel time:0.02225490196
+avg dij time:0.01058823529
+***************************************
+node_num:900,avg_degree:14,isdigraph:true,is_neg:false
+test_times:52
+avg bel time:0.02267307692
+avg dij time:0.01032692308
+***************************************
+node_num:900,avg_degree:15,isdigraph:true,is_neg:false
+test_times:49
+avg bel time:0.0243877551
+avg dij time:0.01018367347
+***************************************
+node_num:900,avg_degree:16,isdigraph:true,is_neg:false
+test_times:47
+avg bel time:0.0260212766
+avg dij time:0.01012765957
+***************************************
+node_num:900,avg_degree:17,isdigraph:true,is_neg:false
+test_times:46
+avg bel time:0.02765217391
+avg dij time:0.009891304348
+***************************************
+node_num:900,avg_degree:18,isdigraph:true,is_neg:false
+test_times:44
+avg bel time:0.02940909091
+avg dij time:0.01022727273
+***************************************
+node_num:900,avg_degree:19,isdigraph:true,is_neg:false
+test_times:42
+avg bel time:0.03097619048
+avg dij time:0.01
+***************************************
+node_num:900,avg_degree:20,isdigraph:true,is_neg:false
+test_times:41
+avg bel time:0.03226829268
+avg dij time:0.01007317073
+***************************************
+node_num:1000,avg_degree:2,isdigraph:true,is_neg:false
+test_times:117
+avg bel time:0.004017094017
+avg dij time:0.006418803419
+***************************************
+node_num:1000,avg_degree:3,isdigraph:true,is_neg:false
+test_times:85
+avg bel time:0.005941176471
+avg dij time:0.01085882353
+***************************************
+node_num:1000,avg_degree:4,isdigraph:true,is_neg:false
+test_times:77
+avg bel time:0.007922077922
+avg dij time:0.01111688312
+***************************************
+node_num:1000,avg_degree:5,isdigraph:true,is_neg:false
+test_times:74
+avg bel time:0.009972972973
+avg dij time:0.01014864865
+***************************************
+node_num:1000,avg_degree:6,isdigraph:true,is_neg:false
+test_times:65
+avg bel time:0.0124
+avg dij time:0.01124615385
+***************************************
+node_num:1000,avg_degree:7,isdigraph:true,is_neg:false
+test_times:64
+avg bel time:0.014046875
+avg dij time:0.01025
+***************************************
+node_num:1000,avg_degree:8,isdigraph:true,is_neg:false
+test_times:59
+avg bel time:0.01593220339
+avg dij time:0.01142372881
+***************************************
+node_num:1000,avg_degree:9,isdigraph:true,is_neg:false
+test_times:53
+avg bel time:0.01828301887
+avg dij time:0.01247169811
+***************************************
+node_num:1000,avg_degree:10,isdigraph:true,is_neg:false
+test_times:47
+avg bel time:0.02157446809
+avg dij time:0.01370212766
+***************************************
+node_num:1000,avg_degree:11,isdigraph:true,is_neg:false
+test_times:45
+avg bel time:0.02395555556
+avg dij time:0.01297777778
+***************************************
+node_num:1000,avg_degree:12,isdigraph:true,is_neg:false
+test_times:44
+avg bel time:0.02488636364
+avg dij time:0.01322727273
+***************************************
+node_num:1000,avg_degree:13,isdigraph:true,is_neg:false
+test_times:41
+avg bel time:0.02763414634
+avg dij time:0.01317073171
+***************************************
+node_num:1000,avg_degree:14,isdigraph:true,is_neg:false
+test_times:40
+avg bel time:0.02985
+avg dij time:0.01335
+***************************************
+node_num:1000,avg_degree:15,isdigraph:true,is_neg:false
+test_times:37
+avg bel time:0.03186486486
+avg dij time:0.01351351351
+***************************************
+node_num:1000,avg_degree:16,isdigraph:true,is_neg:false
+test_times:36
+avg bel time:0.03375
+avg dij time:0.01352777778
+***************************************
+node_num:1000,avg_degree:17,isdigraph:true,is_neg:false
+test_times:36
+avg bel time:0.03486111111
+avg dij time:0.01313888889
+***************************************
+node_num:1000,avg_degree:18,isdigraph:true,is_neg:false
+test_times:35
+avg bel time:0.03725714286
+avg dij time:0.01302857143
+***************************************
+node_num:1000,avg_degree:19,isdigraph:true,is_neg:false
+test_times:34
+avg bel time:0.03858823529
+avg dij time:0.01297058824
+***************************************
+node_num:1000,avg_degree:20,isdigraph:true,is_neg:false
+test_times:32
+avg bel time:0.04146875
+avg dij time:0.012875
+***************************************
